@@ -1,0 +1,1 @@
+Just for a laugh really, I thought I might implement a fraction type
